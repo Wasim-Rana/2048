@@ -15,10 +15,6 @@ This project is a simple implementation of the classic 2048 game built using **H
 3. Combine tiles with the same value to score points.
 4. Try to reach the tile `2048` to win the game!
 
-## Technologies Used
-- **HTML**: Structure of the game board.
-- **CSS**: Basic styling for the grid and tiles.
-- **JavaScript**: Logic for tile movement, combination, scoring, and win/loss conditions.
 
 ## Author
 - [@Wasim](https://github.com/Wasim-Rana)
